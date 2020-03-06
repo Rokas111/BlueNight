@@ -1,0 +1,28 @@
+package me.Rokaz.BlueCraft.core.IMessages;
+
+import me.Rokaz.BlueCraft.core.lib.messages.IInteractableMessage;
+import net.dv8tion.jda.api.JDA;
+import net.dv8tion.jda.api.events.message.react.MessageReactionAddEvent;
+import net.dv8tion.jda.api.hooks.ListenerAdapter;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class InteractableManager extends ListenerAdapter {
+    private List<IInteractableMessage> messages;
+    private JDA bot;
+    public InteractableManager(JDA bot) {
+        messages = new ArrayList<>();
+        this.bot = bot;
+        bot.addEventListener(this);
+    }
+    public void onMessageReactionAdd(MessageReactionAddEvent e) {
+        if (!e.getMember().getUser().isBot()&& messages.parallelStream().anyMatch(message -> message.getMessage().getId().equals(e.getMessageId()))) {
+            IInteractableMessage imessage = messages.stream().filter(message -> message.getMessage().getId().equals(e.getMessageId())).findFirst().orElse(null);
+            imessage.getReactions().get(e.getReactionEmote().getEmoji()).executeReaction(imessage.getMessage());
+        }
+    }
+    public void addInteractableMessage(IInteractableMessage im) {
+        messages.add(im);
+    }
+}
