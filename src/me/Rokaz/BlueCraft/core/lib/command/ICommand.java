@@ -35,7 +35,7 @@ public interface ICommand {
                     pr = r;
                 }
             }
-            return id <= pr.getID();
+            return getID() <= pr.getID();
         }
     }
 }

@@ -2,6 +2,7 @@ package me.Rokaz.BlueCraft.core.IMessages;
 
 import me.Rokaz.BlueCraft.core.lib.messages.IInteractableMessage;
 import net.dv8tion.jda.api.JDA;
+import net.dv8tion.jda.api.events.message.guild.GuildMessageDeleteEvent;
 import net.dv8tion.jda.api.events.message.react.MessageReactionAddEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
@@ -17,9 +18,14 @@ public class InteractableManager extends ListenerAdapter {
         bot.addEventListener(this);
     }
     public void onMessageReactionAdd(MessageReactionAddEvent e) {
-        if (!e.getMember().getUser().isBot()&& messages.parallelStream().anyMatch(message -> message.getMessage().getId().equals(e.getMessageId()))) {
+        if (!e.getMember().getUser().isBot()&&!messages.isEmpty()&& messages.parallelStream().anyMatch(message -> message.getMessage().getId().equals(e.getMessageId()))) {
             IInteractableMessage imessage = messages.stream().filter(message -> message.getMessage().getId().equals(e.getMessageId())).findFirst().orElse(null);
-            imessage.getReactions().get(e.getReactionEmote().getEmoji()).executeReaction(imessage.getMessage());
+            imessage.getReactions().get(e.getReactionEmote().getEmoji()).executeReaction(imessage.getMessage(),e.getMember());
+        }
+    }
+    public void onGuildMessageDelete(GuildMessageDeleteEvent e) {
+        if (!messages.isEmpty()&& messages.parallelStream().anyMatch(message -> message.getMessage().getId().equals(e.getMessageId()))) {
+            messages.remove(messages.stream().filter(message -> message.getMessage().getId().equals(e.getMessageId())).findFirst().orElse(null));
         }
     }
     public void addInteractableMessage(IInteractableMessage im) {

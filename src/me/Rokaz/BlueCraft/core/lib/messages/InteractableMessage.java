@@ -18,7 +18,7 @@ public abstract class InteractableMessage extends CustomEmbed implements IIntera
     @Override
     public Message send(TextChannel t) {
         Message m = super.send(t);
-        getReactions().keySet().forEach(unicode -> m.addReaction(unicode).queue());
+        getReactions().keySet().forEach(unicode -> m.addReaction(unicode).complete());
         this.m = m;
         return m;
     }

@@ -31,8 +31,8 @@ public class CommandManager extends ListenerAdapter {
     }
     public void onGuildMessageReceived(GuildMessageReceivedEvent e) {
         if (!e.getMessage().getContentRaw().startsWith(PREFIX) || e.getMessage().getAuthor().isBot()) return;
-        String command = e.getMessage().getContentRaw().toLowerCase();
-        ICommand cmd = getCommand(command.contains(" ")?command.substring(1).split(" ")[0]:command.substring(1));
+        String command = e.getMessage().getContentRaw();
+        ICommand cmd = getCommand(command.contains(" ")?command.substring(1).split(" ")[0].toLowerCase():command.substring(1).toLowerCase());
         String[] args = command.contains(" ")? command.substring(command.indexOf(' ') + 1).split(" "):null;
         if (cmd != null) {
             if (cmd.getPermission().getRole() != null && !cmd.getPermission().hasRequiredPermission(e.getMember())) {
