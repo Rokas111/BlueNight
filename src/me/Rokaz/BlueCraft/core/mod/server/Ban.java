@@ -1,6 +1,6 @@
 package me.Rokaz.BlueCraft.core.mod.server;
 
-import me.Rokaz.BlueCraft.core.cmd.embeds.ErrorEmbed;
+import me.Rokaz.BlueCraft.core.cmd.embeds.PopUpEmbed;
 import me.Rokaz.BlueCraft.core.cmd.embeds.WrongArgsEmbed;
 import me.Rokaz.BlueCraft.core.lib.command.Command;
 import me.Rokaz.BlueCraft.core.mod.ModManager;
@@ -20,7 +20,7 @@ public class Ban extends Command {
             return;
         }
         if (m.getMentionedMembers().isEmpty()) {
-            new ErrorEmbed("You must mention a member").send(m.getTextChannel());
+            new PopUpEmbed("You must mention a member").send(m.getTextChannel());
             return;
         }
         new BanEmbed(m.getMentionedMembers().get(0).getUser(),m.getAuthor(), StringUtils.join(Arrays.asList(args).subList(1,args.length)," ")).send(m.getGuild().getTextChannelById(ModManager.PUNISHMENT_LOG));

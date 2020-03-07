@@ -1,4 +1,4 @@
-package me.Rokaz.BlueCraft.core.roles;
+package me.Rokaz.BlueCraft.core.lib.roles;
 
 import net.dv8tion.jda.api.entities.Member;
 
@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public enum Role {
+    NOTIFY("685832068940562526"),
     MUTED("684149406072569868"),
     MEMBER("683406698571890736"),
     FREELANCER("684088592670261250"),

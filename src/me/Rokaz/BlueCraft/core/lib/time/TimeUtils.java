@@ -1,4 +1,4 @@
-package me.Rokaz.BlueCraft.core.utils;
+package me.Rokaz.BlueCraft.core.lib.time;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

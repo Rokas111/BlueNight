@@ -1,11 +1,11 @@
 package me.Rokaz.BlueCraft.core.mod.mute;
 
-import me.Rokaz.BlueCraft.core.cmd.embeds.ErrorEmbed;
+import me.Rokaz.BlueCraft.core.cmd.embeds.PopUpEmbed;
 import me.Rokaz.BlueCraft.core.cmd.embeds.WrongArgsEmbed;
 import me.Rokaz.BlueCraft.core.lib.command.Command;
 import me.Rokaz.BlueCraft.core.mod.ModManager;
 import me.Rokaz.BlueCraft.core.mod.embeds.mute.MuteEmbed;
-import me.Rokaz.BlueCraft.core.roles.Role;
+import me.Rokaz.BlueCraft.core.lib.roles.Role;
 import net.dv8tion.jda.api.entities.Message;
 import org.apache.commons.lang3.StringUtils;
 
@@ -22,7 +22,7 @@ public class Mute extends Command {
             return;
         }
         if (m.getMentionedMembers().isEmpty()) {
-            new ErrorEmbed("You must mention a member").send(m.getTextChannel());
+            new PopUpEmbed("You must mention a member").send(m.getTextChannel());
             return;
         }
 

@@ -1,6 +1,6 @@
 package me.Rokaz.BlueCraft.core.lib.command;
 
-import me.Rokaz.BlueCraft.core.roles.Role;
+import me.Rokaz.BlueCraft.core.lib.roles.Role;
 import net.dv8tion.jda.api.entities.Member;
 import net.dv8tion.jda.api.entities.Message;
 

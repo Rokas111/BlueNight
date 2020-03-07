@@ -1,6 +1,6 @@
 package me.Rokaz.BlueCraft.core.cmd;
 
-import me.Rokaz.BlueCraft.core.cmd.embeds.ErrorEmbed;
+import me.Rokaz.BlueCraft.core.cmd.embeds.PopUpEmbed;
 import me.Rokaz.BlueCraft.core.lib.command.ICommand;
 import me.Rokaz.BlueCraft.core.lib.embed.premades.SimpleCustomEmbed;
 import net.dv8tion.jda.api.JDA;
@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 public class CommandManager extends ListenerAdapter {
     public static final String PREFIX = "-";
-    private static final SimpleCustomEmbed PERMISSION_EMBED = new ErrorEmbed("You don't have the permission to execute this command");
+    private static final SimpleCustomEmbed PERMISSION_EMBED = new PopUpEmbed("You don't have the permission to execute this command");
     private List<ICommand> commands;
     private JDA bot;
     public CommandManager(JDA bot) {

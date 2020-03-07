@@ -1,6 +1,6 @@
 package me.Rokaz.BlueCraft.core.mod.chat;
 
-import me.Rokaz.BlueCraft.core.cmd.embeds.ErrorEmbed;
+import me.Rokaz.BlueCraft.core.cmd.embeds.PopUpEmbed;
 import me.Rokaz.BlueCraft.core.cmd.embeds.WrongArgsEmbed;
 import me.Rokaz.BlueCraft.core.lib.command.Command;
 import net.dv8tion.jda.api.entities.Message;
@@ -19,7 +19,7 @@ public class ClearChat extends Command {
             return;
         }
         if (!NumberUtils.isParsable(args[0])) {
-            new ErrorEmbed("You must specify a number").send(m.getTextChannel());
+            new PopUpEmbed("You must specify a number").send(m.getTextChannel());
             return;
         }
         MessageHistory h = new MessageHistory(m.getTextChannel());

@@ -32,7 +32,7 @@ public class SelectorHelpEmbed extends InteractableMessage {
     }
     public Embed getEmbed() {
         return new Embed(
-                new EmbedAuthor(null),new EmbedHeader("Help","Select one of the following emojis to continue\n\n\uD83D\uDCDC - Ticket help\n\uD83C\uDFC3 - General command help\n\uD83E\uDDF0 - Management command help\n")
+                new EmbedAuthor(null),new EmbedHeader("Help","Select one of the following emojis to continue\n\n\uD83D\uDD27- Ticket help\n\uD83C\uDF9F - General command help\n\uD83C\uDFE1 - Management command help\n")
                 ,null,null, new EmbedFooter(BlueCraft.AUTHOR_NAME,BlueCraft.AUTHOR_AVATAR));
     }
     public HashMap<String, ReactionExecutor> getReactions() {

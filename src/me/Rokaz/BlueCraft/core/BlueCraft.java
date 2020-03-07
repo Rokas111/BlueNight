@@ -2,6 +2,7 @@ package me.Rokaz.BlueCraft.core;
 
 import me.Rokaz.BlueCraft.core.IMessages.InteractableManager;
 import me.Rokaz.BlueCraft.core.cmd.CommandManager;
+import me.Rokaz.BlueCraft.core.general.GeneralManager;
 import me.Rokaz.BlueCraft.core.help.HelpManager;
 import me.Rokaz.BlueCraft.core.mod.ModManager;
 import me.Rokaz.BlueCraft.core.mod.chat.ClearChat;
@@ -24,6 +25,7 @@ public class BlueCraft {
     public static WelcomeManager wm;
     public static ModManager mm;
     public static HelpManager hm;
+    public static GeneralManager gm;
     private static JDA bot;
     public static void main(String[] args) throws Exception {
         bot = new JDABuilder(AccountType.BOT).setToken(TOKEN).build();
@@ -33,6 +35,7 @@ public class BlueCraft {
         wm = new WelcomeManager(bot);
         mm = new ModManager(bot);
         hm = new HelpManager(bot);
+        gm = new GeneralManager(bot);
         Timer timer = new Timer();
         timer.schedule(sp,1,2000);
     }

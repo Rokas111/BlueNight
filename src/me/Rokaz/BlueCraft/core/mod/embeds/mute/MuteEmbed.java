@@ -1,13 +1,12 @@
 package me.Rokaz.BlueCraft.core.mod.embeds.mute;
 
-import me.Rokaz.BlueCraft.core.BlueCraft;
 import me.Rokaz.BlueCraft.core.lib.embed.Embed;
 import me.Rokaz.BlueCraft.core.lib.embed.custom.CustomEmbed;
 import me.Rokaz.BlueCraft.core.lib.embed.objects.EmbedAuthor;
 import me.Rokaz.BlueCraft.core.lib.embed.objects.EmbedField;
 import me.Rokaz.BlueCraft.core.lib.embed.objects.EmbedFooter;
 import me.Rokaz.BlueCraft.core.lib.embed.objects.EmbedHeader;
-import me.Rokaz.BlueCraft.core.utils.TimeUtils;
+import me.Rokaz.BlueCraft.core.lib.time.TimeUtils;
 import net.dv8tion.jda.api.entities.User;
 
 public class MuteEmbed extends CustomEmbed {

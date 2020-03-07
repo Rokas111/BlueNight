@@ -1,6 +1,6 @@
 package me.Rokaz.BlueCraft.core.welcome;
 
-import me.Rokaz.BlueCraft.core.roles.Role;
+import me.Rokaz.BlueCraft.core.lib.roles.Role;
 import me.Rokaz.BlueCraft.core.welcome.embeds.WelcomeEmbed;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.entities.Member;
@@ -12,7 +12,7 @@ import java.util.List;
 
 public class WelcomeManager extends ListenerAdapter {
     public static final String WELCOME_CHANNEL = "683440681691250696";
-    public static final List<Role> ON_JOIN_ROLES = Arrays.asList(Role.MEMBER);
+    public static final List<Role> ON_JOIN_ROLES = Arrays.asList(Role.MEMBER,Role.NOTIFY);
     private JDA bot;
     public WelcomeManager(JDA bot) {
         this.bot = bot;

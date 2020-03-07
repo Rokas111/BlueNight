@@ -7,6 +7,10 @@ import net.dv8tion.jda.api.entities.TextChannel;
 
 public abstract class InteractableMessage extends CustomEmbed implements IInteractableMessage {
     private Message m;
+    public InteractableMessage(boolean deleteAfter) {
+        super(deleteAfter);
+        BlueCraft.im.addInteractableMessage(this);
+    }
     public InteractableMessage(boolean deleteAfter,int customTime) {
         super(customTime,deleteAfter);
         BlueCraft.im.addInteractableMessage(this);
