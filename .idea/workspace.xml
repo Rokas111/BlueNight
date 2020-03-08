@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d57bd784-3195-4c28-999d-dec9fc496712" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/BlueLight_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/BlueLight_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BlueLight/main/java/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/status/StatusUpdater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
+            <state relative-caret-position="240">
               <caret line="10" column="149" selection-start-line="10" selection-start-column="149" selection-end-line="10" selection-end-column="149" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -36,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-231">
+            <state relative-caret-position="24">
               <caret line="18" column="99" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -57,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -78,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/IMessages/InteractableManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="648">
               <caret line="27" column="145" selection-start-line="27" selection-start-column="145" selection-end-line="27" selection-end-column="145" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -92,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/suggestions/embeds/BugEmbed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="696">
               <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -104,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/help/embeds/SelectorHelpEmbed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="600">
               <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,7 +114,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/messages/reactions/ReactionExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="144">
               <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -143,12 +141,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/me/Rokaz/BlueCraft/core/help/HelpManager.java" />
         <option value="$PROJECT_DIR$/src/me/Rokaz/BlueCraft/core/mod/embeds/mute/MuteEmbed.java" />
         <option value="$PROJECT_DIR$/src/me/Rokaz/BlueCraft/core/mod/embeds/server/BanEmbed.java" />
         <option value="$PROJECT_DIR$/src/me/Rokaz/BlueCraft/core/mod/embeds/server/KickEmbed.java" />
@@ -199,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Procfile" />
         <option value="$PROJECT_DIR$/src/Procfile" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java" />
       </list>
     </option>
   </component>
@@ -217,6 +215,36 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
@@ -328,7 +356,7 @@
     <frame x="-9" y="7" width="1873" height="1042" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3127413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31605074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -717,9 +745,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BlueLight.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Procfile" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/status/StatusUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="149" selection-start-line="10" selection-start-column="149" selection-end-line="10" selection-end-column="149" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/IMessages/InteractableManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="648">
           <caret line="27" column="145" selection-start-line="27" selection-start-column="145" selection-end-line="27" selection-end-column="145" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -731,7 +787,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/suggestions/embeds/BugEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="696">
           <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -741,7 +797,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/help/embeds/SelectorHelpEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="600">
           <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -751,52 +807,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/messages/reactions/ReactionExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/status/StatusUpdater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="10" column="149" selection-start-line="10" selection-start-column="149" selection-end-line="10" selection-end-column="149" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BlueLight.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="18" column="99" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -806,7 +818,17 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="18" column="99" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
