@@ -1,1 +1,1 @@
-worker: java -jar target/BlueLight.jar
+worker: java -jar out/artifacts/.BlueLight.jar
