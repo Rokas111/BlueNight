@@ -1,1 +1,1 @@
-worker: java -jar out/artifacts/BlueLight_jar/BlueLight.java
+worker: java -jar out/artifacts/BlueLight_jar/BlueLight.jar
