@@ -16,7 +16,7 @@ import java.util.Timer;
 
 public class BlueLight {
     public static final String SERVER_NAME = "BlueLight";
-    public static final String TOKEN = "NjgxNTcyMzkzODYwNDY0Nzg1.XlQulg.VISuY26QcEIVToO_5MtgdVoz8Zw";
+    public static final String TOKEN = "NjgxNTcyMzkzODYwNDY0Nzg1.XmTsVQ.4zwtgw5eqpMvpjSAcEOHjkCG_oQ";
     public static final String AUTHOR_NAME = "Rokaz";
     public static final String AUTHOR_AVATAR = "https://cdn.discordapp.com/avatars/284360814163394564/ca64d69df984618931b4304c3d503a75.png?size=128";
     public static StatusUpdater sp;
