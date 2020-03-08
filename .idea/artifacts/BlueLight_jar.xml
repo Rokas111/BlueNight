@@ -1,12 +1,12 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="BlueLight:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts/BlueLight_jar</output-path>
     <root id="archive" name="BlueLight.jar">
       <element id="module-output" name="BlueLight" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../downloads/guava-23.0.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../commons-lang3-3.9.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../downloads/JDA-4.1.1_101-withDependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../downloads/guava-23.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../downloads/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../commons-lang3-3.9.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

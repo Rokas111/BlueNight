@@ -1,1 +1,1 @@
-web: java -jar target/BlueLight.jar
+worker: java -jar out/artifacts/BlueLight_jar/BlueLight.java
