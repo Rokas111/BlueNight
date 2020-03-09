@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d57bd784-3195-4c28-999d-dec9fc496712" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/services/manifest/MANIFEST.mf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/manifest/MANIFEST.mf" afterDir="false" />
-    </list>
+    <list default="true" id="d57bd784-3195-4c28-999d-dec9fc496712" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -389,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583782593697</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fixed manifest 2">
+      <created>1583786082544</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1583786082545</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,7 +445,8 @@
     <MESSAGE value="fixed token again" />
     <MESSAGE value="fixed procfile 2" />
     <MESSAGE value="fixed manifest" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed manifest" />
+    <MESSAGE value="fixed manifest 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed manifest 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
