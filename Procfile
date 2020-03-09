@@ -1,1 +1,1 @@
-worker: java cmvf META-INF/MANIFEST.MF -jar out/artifacts/BlueLight_jar/BlueLight.jar
+worker: java -jar out/artifacts/BlueLight_jar/BlueLight.jar
