@@ -1,1 +1,1 @@
-worker: java -jar target/BlueNight.jar
+worker: java -jar BlueNight.jar
