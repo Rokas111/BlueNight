@@ -29,7 +29,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/placeholder/PlaceHolder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/TicketManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/cmd/Close.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/BlueNight_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/BlueNight_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/BlueNight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/IMessages/InteractableManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/IMessages/InteractableManager.java" afterDir="false" />
@@ -90,18 +91,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/FreelancerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#235#236#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="744">
@@ -159,11 +148,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
               <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -231,7 +229,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/premades/SimpleCustomEmbed.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedHeader.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedFooter.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedField.java" />
@@ -282,6 +279,7 @@
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/RemoveFreelancerRole.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -311,36 +309,6 @@
           <expand>
             <path>
               <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -357,7 +325,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="bluecraft" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BlueNight" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bot" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15522388" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -500,6 +468,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="-14" width="1873" height="1042" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48801368" visible="true" weight="0.38444567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -512,6 +481,7 @@
       <window_info id="Capture Tool" order="8" />
       <window_info id="Learn" order="9" />
       <window_info id="Team" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.32943925" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4997242" weight="0.32943925" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.30114943" />
@@ -880,13 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/FreelancerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -987,6 +950,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1046,6 +1016,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

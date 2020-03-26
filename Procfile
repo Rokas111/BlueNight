@@ -1,1 +1,1 @@
-worker: java -jar out/artifacts/BlueNight_jar/BlueNight.jar
+worker: java -jar E:/bot/BlueNight.jar
