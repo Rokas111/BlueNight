@@ -1,1 +1,1 @@
-web: E:/bot/BlueNight.jar
+worker: java -jar target/BlueNight.jar

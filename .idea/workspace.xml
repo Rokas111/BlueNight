@@ -29,7 +29,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/placeholder/PlaceHolder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/TicketManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/cmd/Close.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/BlueNight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/IMessages/InteractableManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/IMessages/InteractableManager.java" afterDir="false" />
@@ -308,6 +307,36 @@
           <expand>
             <path>
               <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -324,7 +353,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="bluecraft" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15522388" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -467,7 +496,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="-14" width="1873" height="1042" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48801368" visible="true" weight="0.38444567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1015,7 +1043,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
