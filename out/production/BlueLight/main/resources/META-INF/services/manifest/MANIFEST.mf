@@ -1,2 +1,4 @@
 Manifest-Version: 1.0
 Created-By: Rokaz
+Main-Class: main.java.me.Rokaz.BlueLight.core.BlueLight
+
