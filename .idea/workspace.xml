@@ -89,20 +89,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-                <element signature="e#859#860#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/IConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -155,11 +141,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/manifest/MANIFEST.mf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -227,7 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedHeader.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedFooter.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedField.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedAuthor.java" />
@@ -278,6 +272,7 @@
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/RemoveFreelancerRole.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/services/manifest/MANIFEST.mf" />
       </list>
     </option>
   </component>
@@ -334,6 +329,21 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="manifest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
@@ -496,6 +506,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="-14" width="1873" height="1042" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48801368" visible="true" weight="0.38444567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -559,13 +570,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/cmd/embeds/PopUpEmbed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/SelectorHelpEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -980,7 +984,14 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/manifest/MANIFEST.mf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -1043,6 +1054,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
