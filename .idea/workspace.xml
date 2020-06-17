@@ -5,45 +5,129 @@
       <artifact name="BlueNight:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/category/role/AddRoleToCategory.java" line="38" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d57bd784-3195-4c28-999d-dec9fc496712" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/cmd/embeds/PopUpEmbed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/FreelancerChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__club_minnced_opus_java_api_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__club_minnced_opus_java_natives_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_2_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_neovisionaries_nv_websocket_client_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_dv8tion_JDA_4_1_1_101.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_trove4j_trove4j_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_26_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_extras_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/channel/ChannelManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/embeds/InputManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/embeds/config/EmbedConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/FreelancerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/WriteFreelancerMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/FreelancerRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/application/ApplicationChannel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/player/AddFreelancer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/player/RemoveFreelancer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/AddFreelancerRole.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/RemoveFreelancerRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/FreelanceRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/ApplicationConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/FreelancerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/FreelancerRoleConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/embeds/ApplicationEmbed.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/embeds/FreelancerEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/cmd/Announce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/embed/AnnouncementEmbed.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/CustomChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/ILogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/interfaces/IChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/interfaces/ICustomChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/interfaces/ILogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/ticket/ITicket.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/ticket/TicketChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/embeds/WrongArgsEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/shop/ShopCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/ticket/TicketCommand.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/IConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/SerializedMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/input/InputEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/input/InputExecutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/input/InputQuestionEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/input/InputRepeatingQuestionEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/interactable/IInteractableEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/interactable/InteractableEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/premades/ErrorEmbed.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/premades/SimpleCustomEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/suggestion/SuggestionEmbed.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/CountdownEmbed.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/TimerEmbed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/messages/IInteractableMessage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/placeholder/PlaceHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/user/SerializedMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/user/SerializedUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/RoleManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/AddRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/RemoveRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/category/AddCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/category/RemoveCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/category/role/AddRoleToCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/category/role/RemoveRoleFromCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/config/RoleConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/utils/RoleCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/utils/SerializedRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/ShopConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/ShopManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/channel/ShopChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/cmd/item/AddItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/cmd/item/RemoveItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/cmd/shop/AddShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/cmd/shop/RemoveShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/PurchaseEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/ShopItemEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/item/ShopItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/ticket/ShopTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/config/BugConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/config/SuggestionConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/TicketManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/cmd/Close.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/config/TicketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/embed/TicketEmbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/welcome/cmd/AddRoleOnWelcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueNight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BlueNight.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/BlueLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/BlueNight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/IMessages/InteractableManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/IMessages/InteractableManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/IMessages/InteractableManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/embeds/interactable/InteractableManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/cmd/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/cmd/CommandManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/cmd/embeds/PopUpEmbed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/cmd/embeds/WrongArgsEmbed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/cmd/embeds/WrongArgsEmbed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/cmd/embeds/WrongArgsEmbed.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/general/GeneralManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/GeneralManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/general/cmd/Notify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/cmd/Notify.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/help/HelpManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/HelpManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/help/cmd/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/cmd/Help.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/help/embeds/HelpEmbed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/HelpEmbed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/help/embeds/SelectorHelpEmbed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/SelectorHelpEmbed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/command/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/command/ICommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/command/ICommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/command/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/command/ICommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/ICommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/embed/Embed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/Embed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/embed/custom/CustomEmbed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/custom/CustomEmbed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/embed/custom/ICustomEmbed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/custom/ICustomEmbed.java" afterDir="false" />
@@ -53,9 +137,9 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/embed/objects/EmbedHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedHeader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/embed/premades/SimpleCustomEmbed.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/messages/IInteractableMessage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/messages/InteractableMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/messages/InteractableMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/messages/reactions/ReactionExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/messages/reactions/ReactionExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/roles/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/roles/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/messages/InteractableMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/messages/reactions/ReactionExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/interactable/reactions/ReactionExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/roles/Role.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/lib/time/TimeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/time/TimeUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/ModManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/ModManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/chat/ClearChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/chat/ClearChat.java" afterDir="false" />
@@ -63,7 +147,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/embeds/server/BanEmbed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/embeds/server/BanEmbed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/embeds/server/KickEmbed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/embeds/server/KickEmbed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/embeds/server/UnbanEmbed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/embeds/server/UnbanEmbed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/mute/Mute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/mute/Mute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/mute/Mute.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/server/Ban.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Ban.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/server/Kick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Kick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueLight/core/mod/server/Unban.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Unban.java" afterDir="false" />
@@ -90,13 +174,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/IConfig.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            <state relative-caret-position="2616">
+              <caret line="125" column="36" selection-start-line="125" selection-start-column="36" selection-end-line="125" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/embeds/config/EmbedConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="14" column="143" selection-start-line="14" selection-start-column="143" selection-end-line="14" selection-end-column="143" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/embed/TicketEmbed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/embeds/BugEmbed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/embeds/SuggestEmbed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/BlueNight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/ShopItemEmbed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="23" selection-start-line="23" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/SelectorHelpEmbed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -104,93 +260,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/embeds/FreelancerEmbed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/custom/CustomEmbed.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1206#1207#0" expanded="true" />
-                <element signature="e#1270#1271#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/RemoveFreelancerRole.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/manifest/MANIFEST.mf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/TicketManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/ticket/TicketChannel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/cmd/Close.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="408">
+              <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -204,76 +275,80 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Enum" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+        <option value="Enum" />
         <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>JsonSerializer</find>
+    </findStrings>
     <dirStrings>
       <dir>E:\BlueCraft</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedFooter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedField.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/objects/EmbedAuthor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/custom/ICustomEmbed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/custom/CustomEmbed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/IMessages/InteractableManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/HelpManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/SelectorHelpEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/user/SerializedMember.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/application/ApplicationChannel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/PurchaseEmbed.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/HelpEmbed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/GeneralManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/FreelanceChannel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/FreelancerChannel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/Channel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/embed/AnnouncementEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/embeds/ApplicationEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/premades/ErrorEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/welcome/embeds/WelcomeEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/Embed.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/FreelancerManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/FreelancerConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/messages/PlaceHolderExecutable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/placeholder/PlaceHolderExecutable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/placeholder/executable/PlaceHolderExecutable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/timer/TimerCountdown.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/TimerEmbed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/Countdown.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/EmbedCountdown.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/placeholder/PlaceHolder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/CountdownEmbed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/embeds/FreelancerEmbed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/command/ICommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/player/AddFreelancer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/WriteFreelancerMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/AddFreelancerRole.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/player/RemoveFreelancer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/chat/ClearChat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/cmd/ReportBug.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Ban.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/mute/Mute.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/cmd/Help.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/cmd/Suggest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/cmd/Notify.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Kick.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/TicketManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/BlueNight.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/cmd/CommandManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Unban.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/ticket/TicketChannel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/cmd/Close.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/IConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/RemoveFreelancerRole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/embeds/WrongArgsEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/cmd/CommandManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/ticket/ShopTicket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/input/InputEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/cmd/Announce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/chat/ClearChat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/category/role/RemoveRoleFromCategory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/welcome/cmd/AddRoleOnWelcome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/category/role/AddRoleToCategory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/ticket/TicketCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Ban.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/shop/ShopCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/cmd/item/RemoveItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/cmd/Notify.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/RemoveRole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/AddRole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/cmd/shop/AddShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Kick.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/cmd/shop/RemoveShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/cmd/category/RemoveCategory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Unban.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/config/TicketConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/embeds/interactable/InteractableManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/cmd/ReportBug.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/BlueNight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/interactable/InteractableEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/suggestion/SuggestionEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/interactable/IInteractableEmbed.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/services/manifest/MANIFEST.mf" />
-        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/cmd/Suggest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/embed/TicketEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/embeds/BugEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/embeds/SuggestEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/ShopItemEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/SelectorHelpEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/embeds/FreelancerEmbed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/embeds/config/EmbedConfig.java" />
       </list>
     </option>
   </component>
@@ -286,10 +361,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="-14" />
-    <option name="width" value="1873" />
-    <option name="height" value="1042" />
+    <option name="x" value="16" />
+    <option name="width" value="1867" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -297,7 +371,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,7 +409,241 @@
               <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="embeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="embeds" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="embeds" type="462c0819:PsiDirectoryNode" />
+              <item name="interactable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+              <item name="embeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="embed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="embed" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="embed" type="462c0819:PsiDirectoryNode" />
+              <item name="interactable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="embed" type="462c0819:PsiDirectoryNode" />
+              <item name="suggestion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="embed" type="462c0819:PsiDirectoryNode" />
+              <item name="timer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="shops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="shops" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="shops" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="embeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="shops" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="shops" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="status" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="suggestions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="suggestions" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="suggestions" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlueLight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="suggestions" type="462c0819:PsiDirectoryNode" />
+              <item name="embeds" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
@@ -344,17 +651,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="manifest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BlueLight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,8 +667,8 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="bluecraft" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoPicker" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15522388" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -506,9 +809,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="-14" width="1873" height="1042" extended-state="0" />
+    <frame x="16" y="0" width="1867" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48801368" visible="true" weight="0.38444567" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49140894" visible="true" weight="0.35116154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.5119863" side_tool="true" weight="0.3523454" />
@@ -518,34 +821,74 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Learn" order="9" />
-      <window_info id="Team" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.32943925" />
+      <window_info id="Team" order="10" sideWeight="0.50859106" side_tool="true" weight="0.30916846" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4997242" weight="0.32943925" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.30114943" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48057714" weight="0.45300114" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39770114" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32988507" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49833518" weight="0.329849" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32988507" />
-      <window_info anchor="bottom" id="CheckStyle" order="9" weight="0.32988507" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50248206" side_tool="true" weight="0.32827103" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Executor" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4975179" weight="0.32827103" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49833518" weight="0.329849" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5199778" side_tool="true" weight="0.45285088" />
+      <window_info anchor="bottom" id="JRebel Console" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="11" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" sideWeight="0.49778023" weight="0.329849" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.48779133" weight="0.32520324" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" order="14" weight="0.32943925" />
+      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.49778023" weight="0.32868758" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Key Promoter X" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" weight="0.32889125" />
       <window_info anchor="right" id="Codota" order="9" weight="0.32995737" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Notifications" />
@@ -560,6 +903,38 @@
     <MESSAGE value="fixed manifest 2" />
     <option name="LAST_COMMIT_MESSAGE" value="fixed manifest 2" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/Shop.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/config/BugConfig.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/ShopItemEmbed.java</url>
+          <line>42</line>
+          <properties class="me.Rokaz.BlueNight.core.shops.shop.embeds.ShopItemEmbed" method="getEmbed">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/ShopItemEmbed.java</url>
+          <line>26</line>
+          <properties field="id" class="me.Rokaz.BlueNight.core.shops.shop.embeds.ShopItemEmbed" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
       <path>
@@ -570,34 +945,208 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/SelectorHelpEmbed.java">
+    <entry file="file://$PROJECT_DIR$/applicationtickets.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/freelancerembeds.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/freelancerroles.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bugs.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/TimerEmbed.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/SerializedMessage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/config/BugConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="384">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/Embed.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/Shop.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/cmd/ReportBug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/config/TicketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/cmd/Close.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/ISaveable.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/input/InputEmbed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/ICommand.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/channel/ShopChannel.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/interactable/InteractableEmbed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar!/com/google/gson/GsonBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4632">
+          <caret line="196" column="23" selection-start-line="196" selection-start-column="23" selection-end-line="196" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/cmd/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar!/com/google/gson/JsonSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/cmd/Suggest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/config/SuggestionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/welcome/WelcomeManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/welcome/cmd/AddRoleOnWelcome.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/TicketManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/item/ShopItem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/ticket/ShopTicket.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/embeds/interactable/InteractableManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/welcome/embeds/WelcomeEmbed.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/PurchaseEmbed.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/role/config/RoleConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/embeds/server/BanEmbed.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/embeds/server/KickEmbed.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/embeds/server/UnbanEmbed.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/embeds/mute/MuteEmbed.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/HelpEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="504">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/embeds/server/KickEmbed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BlueNight.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/embed/AnnouncementEmbed.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/GeneralManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/embeds/ApplicationEmbed.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/suggestion/SuggestionEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="360">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/IConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/embeds.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2616">
+          <caret line="125" column="36" selection-start-line="125" selection-start-column="36" selection-end-line="125" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/embed/TicketEmbed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -606,392 +1155,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/embeds/BugEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        <state relative-caret-position="528">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/custom/ICustomEmbed.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/embeds/SuggestEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="648">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/messages/InteractableMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/placeholder/executable/PlaceHolderExecutable.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/timer/TimerCountdown.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/Embed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/messages/IInteractableMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/placeholder/PlaceHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/premades/SimpleCustomEmbed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/command/ICommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/player/AddFreelancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/player/RemoveFreelancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="104" selection-start-line="12" selection-start-column="104" selection-end-line="12" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/chat/ClearChat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/CountdownEmbed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/timer/TimerEmbed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="11" column="112" selection-start-line="11" selection-start-column="112" selection-end-line="11" selection-end-column="112" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/cmd/Help.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/cmd/Suggest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/general/cmd/Notify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Kick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/suggestions/cmd/ReportBug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/ModManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Ban.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/mute/Mute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="16" column="105" selection-start-line="16" selection-start-column="105" selection-end-line="16" selection-end-column="105" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/BlueNight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/cmd/CommandManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/mod/server/Unban.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="91" />
-          <folding>
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/FreelancerManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/Channel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/command/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="22" />
-          <folding>
-            <element signature="e#1199#1200#0" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/AddFreelancerRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="115" selection-start-line="12" selection-start-column="115" selection-end-line="12" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/FreelanceRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/WriteFreelancerMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/FreelancerChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="80" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/config/FreelancerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-          </folding>
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/config/IConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/shops/shop/embeds/ShopItemEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="23" selection-start-line="23" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/help/embeds/SelectorHelpEmbed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/embeds/FreelancerEmbed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/embed/custom/CustomEmbed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1206#1207#0" expanded="true" />
-            <element signature="e#1270#1271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/TicketManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/lib/channel/ticket/TicketChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/ticket/cmd/Close.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/embeds/config/EmbedConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="304">
+          <caret line="14" column="143" selection-start-line="14" selection-start-column="143" selection-end-line="14" selection-end-column="143" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/freelancerroles.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/Rokaz/BlueNight/core/freelancer/cmd/role/RemoveFreelancerRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/manifest/MANIFEST.mf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -1006,7 +1225,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1074,7 +1292,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>commons-lang3-3.9</last-edited>
+          <last-edited>gson-extras-2.8.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
